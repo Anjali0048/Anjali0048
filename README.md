@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali0048" alt="anjali0048" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain Development**
 
 <h3 align="left">Connect with me:</h3>
